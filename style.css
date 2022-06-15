@@ -11,12 +11,12 @@ html {
   
   td, th {
     border: 1px solid black;
-    /* padding: 10px 20px; */
+    padding: 10px 20px;
   }
 
-  /*
   
-  th {
+  
+  /* th {
     background-color: rgb(235,235,235);
   }
   
